@@ -1,0 +1,24 @@
+{
+  "usuarios": [
+    {"id":1,"first_name":"Jareb","last_name":"Priddey","email":"jpriddey0@slate.com","gender":"M"},
+    {"id":2,"first_name":"Venita","last_name":"Balling","email":"vballing1@addtoany.com","gender":"F"},
+    {"id":3,"first_name":"Romy","last_name":"Cleaver","email":"rcleaver2@whitehouse.gov","gender":"F"},
+    {"id":4,"first_name":"Wake","last_name":"Kitman","email":"wkitman3@globo.com","gender":"M"},
+    {"id":5,"first_name":"Sidney","last_name":"Durgan","email":"sdurgan4@hibu.com","gender":"M"},
+    {"id":6,"first_name":"Vinita","last_name":"Krystof","email":"vkrystof5@aol.com","gender":"F"},
+    {"id":7,"first_name":"Clyde","last_name":"Burnand","email":"cburnand6@wp.com","gender":"M"},
+    {"id":8,"first_name":"Vere","last_name":"Labdon","email":"vlabdon7@dagondesign.com","gender":"F"},
+    {"id":9,"first_name":"Justin","last_name":"Guard","email":"jguard8@plala.or.jp","gender":"M"},
+    {"id":10,"first_name":"Wilek","last_name":"Perell","email":"wperell9@redcross.org","gender":"M"},
+    {"id":11,"first_name":"Zitella","last_name":"Ponting","email":"zpontinga@nasa.gov","gender":"F"},
+    {"id":12,"first_name":"Mandie","last_name":"Fullagar","email":"mfullagarb@youku.com","gender":"F"},
+    {"id":13,"first_name":"Norman","last_name":"Chaise","email":"nchaisec@diigo.com","gender":"M"},
+    {"id":14,"first_name":"Mikkel","last_name":"Pierucci","email":"mpieruccid@bbc.co.uk","gender":"M"},
+    {"id":15,"first_name":"Alyda","last_name":"Gladstone","email":"agladstonee@photobucket.com","gender":"F"},
+    {"id":16,"first_name":"Heda","last_name":"Withinshaw","email":"hwithinshawf@com.com","gender":"F"},
+    {"id":17,"first_name":"Aubrette","last_name":"Casaro","email":"acasarog@youtu.be","gender":"F"},
+    {"id":18,"first_name":"Esmaria","last_name":"Pybworth","email":"epybworthh@delicious.com","gender":"F"},
+    {"id":19,"first_name":"Fidole","last_name":"Strood","email":"fstroodi@constantcontact.com","gender":"M"},
+    {"id":20,"first_name":"Meriel","last_name":"Whibley","email":"mwhibleyj@google.nl","gender":"F"}
+  ]
+}
